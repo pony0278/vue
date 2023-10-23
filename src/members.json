@@ -1,0 +1,16 @@
+{
+    "members": [
+        {
+            "name": "會員1",
+            "id": "001",
+             "password": "A001",
+            "octal_encoding": "0321"
+        },
+        {
+            "name": "會員2",
+            "id": "002",
+             "password": "A002",
+            "octal_encoding": "0457"
+        }
+    ]
+}
