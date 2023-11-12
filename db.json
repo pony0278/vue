@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "27732357@qq.com",
+        "password": "321321",
+        "token": "eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJzdWIiOiAiMTIzNDU2Nzg5MCIsICJuYW1lIjogIkpvaG4gRG9lIiwgImlhdCI6IDE1MTYyMzkwMjJ9.abc123",
+        "accessible_pages": {
+            "external_network": ["001", "002"],
+            "internal_network": ["001", "003"]
+        }
+      }
+    ],
+    "login": [
+      {
+        "email": "27732357@qq.com",
+        "password": "321321",
+        "success": true,
+        "token": "eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJzdWIiOiAiMTIzNDU2Nzg5MCIsICJuYW1lIjogIkpvaG4gRG9lIiwgImlhdCI6IDE1MTYyMzkwMjJ9.abc123",
+        "accessible_pages": {
+            "external_network": ["001", "002"]
+        }
+      },
+      {
+        "email": "27732357@qq.com",
+        "password": "321321",
+        "success": true,
+        "token": "eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJzdWIiOiAiMTIzNDU2Nzg5MCIsICJuYW1lIjogIkpvaG4gRG9lIiwgImlhdCI6IDE1MTYyMzkwMjJ9.abc123",
+        "accessible_pages": {
+            "internal_network": ["001", "003"]
+        }
+      }
+    ]
+  }
+  
